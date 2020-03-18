@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2f9b3058.chunk.css",
+    "main.js": "/static/js/main.c6bffa72.chunk.js",
+    "main.js.map": "/static/js/main.c6bffa72.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a730e744.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a730e744.js.map",
+    "static/js/2.212dfc79.chunk.js": "/static/js/2.212dfc79.chunk.js",
+    "static/js/2.212dfc79.chunk.js.map": "/static/js/2.212dfc79.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.adc0be79482e15e0a16036ace42e7db6.js": "/precache-manifest.adc0be79482e15e0a16036ace42e7db6.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.2f9b3058.chunk.css.map": "/static/css/main.2f9b3058.chunk.css.map",
+    "static/js/2.212dfc79.chunk.js.LICENSE.txt": "/static/js/2.212dfc79.chunk.js.LICENSE.txt",
+    "static/media/grievous.jpg": "/static/media/grievous.378f9bd4.jpg",
+    "static/media/rutgers1.jpg": "/static/media/rutgers1.6c7b94dd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a730e744.js",
+    "static/js/2.212dfc79.chunk.js",
+    "static/css/main.2f9b3058.chunk.css",
+    "static/js/main.c6bffa72.chunk.js"
+  ]
+}
